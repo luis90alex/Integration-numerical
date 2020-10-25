@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1495027798 source:c:\users\lafm\desktop\programas\pu\integració numèrica\integració\myfunctions.c
+	"Myheader.h"
+
+1494998760 c:\users\lafm\desktop\programas\pu\integració numèrica\integració\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1495000975 source:c:\users\lafm\desktop\programas\pu\integració numèrica\integració\main.c
+	"Myheader.h"
+
+1495099335 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe integracion\integració\main.c
+	"Myheader.h"
+
+1495099335 c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe integracion\integració\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1495099569 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe integracion\integració\myfunctions.c
+	"Myheader.h"
+
+1495267456 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe integracion\integració_2\main.c
+	"Myheader.h"
+
+1495267458 c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe integracion\integració_2\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1495373184 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe integracion\integració_2\myfunctions.c
+	"Myheader.h"
+
+1495295502 source:c:\users\lafm\desktop\programas\integració_2\myfunctions.c
+	"Myheader.h"
+
+1495101949 c:\users\lafm\desktop\programas\integració_2\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1495291410 source:c:\users\lafm\desktop\programas\integració_2\main.c
+	"Myheader.h"
+
+1495347850 source:c:\users\luisillo\desktop\luis\samples git\métodos 1\integració_final\main.c
+	"Myheader.h"
+
+1495347850 c:\users\luisillo\desktop\luis\samples git\métodos 1\integració_final\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1495347850 source:c:\users\luisillo\desktop\luis\samples git\métodos 1\integració_final\myfunctions.c
+	"Myheader.h"
+

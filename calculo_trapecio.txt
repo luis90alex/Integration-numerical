@@ -1,0 +1,22 @@
+PROGRAMA REALIZADO POR:
+   Adrià Medeiros (NIU:1388403)
+   Luís Farfan (NIU:1388330)
+   Lucas Fuentealba(NIU:1388326)
+
+CONDICIONES INICIALES:
+
+- Numero de divisiones n: 4
+- Condicion inicial fi0: 2.000000000000000
+- Gravedad g (m/s^2): 3.000000000000000
+- Longitud L (m): 3.000000000000000
+- Tolerancia e: 4.000000000000000
+
+Proceso detenido en la iteración 2 debido a que la tolerancia es:
+0.068010829819143845000000000000
+
+PRIMITIVA: 2.096718348370881
+PERIODO (s): 8.386873393483523
+PERIODO ARMÓNICO(s): 6.283185307179586
+La variacion respecto el periodo armonico es: 33.481236
+
+
